@@ -1,4 +1,4 @@
-#!/bin/python3.py
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import tkinter as tk
 from tkinter import ttk
